@@ -26,3 +26,6 @@ nav {
 .flex-container {
   display: flex;
 }
+img{
+    margin: 10px;;
+}
